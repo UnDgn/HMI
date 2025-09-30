@@ -1,0 +1,16 @@
+@keyframes bg-pulse {
+    0%, 60% {
+        background-color: rgba(255, 0, 0, 0.35);
+    }
+
+    61%, 100% {
+        background-color: rgba(255, 0, 0, 0.05);
+    }
+}
+
+/* Control-Klasse "fault-blink" aus dem Theme-Editor */
+.tchmi-class-Fault_blink {
+    animation: bg-pulse 0.8s linear infinite;
+    /* optional: runde Ecken/Shadow für besseren Look */
+    border-radius: 4px;
+}

@@ -1,0 +1,65 @@
+{
+  "controlTypeValues": {
+    "TcHmi.Controls.Beckhoff.TcHmiRectangle": {
+      "attributes": {
+        "IsEnabled": "true"
+      },
+      "themedResources": {}
+    }
+  },
+  "controlClassValues": {
+    "background-container": {
+      "attributes": {},
+      "themedResources": {}
+    },
+    "Fault_blink": {
+      "attributes": {},
+      "themedResources": {}
+    },
+    "divider": {
+      "attributes": {},
+      "themedResources": {}
+    },
+    "divider-bottom": {
+      "attributes": {},
+      "themedResources": {}
+    },
+    "divider-left": {
+      "attributes": {},
+      "themedResources": {}
+    },
+    "divider-right": {
+      "attributes": {},
+      "themedResources": {}
+    },
+    "divider-top": {
+      "attributes": {},
+      "themedResources": {}
+    },
+    "headline-1": {
+      "attributes": {},
+      "themedResources": {}
+    },
+    "headline-2": {
+      "attributes": {},
+      "themedResources": {}
+    },
+    "headline-3": {
+      "attributes": {},
+      "themedResources": {}
+    },
+    "text-centered": {
+      "attributes": {},
+      "themedResources": {}
+    },
+    "text-color-container": {
+      "attributes": {},
+      "themedResources": {}
+    },
+    "text-size-default": {
+      "attributes": {},
+      "themedResources": {}
+    }
+  },
+  "$schema": "./../../../Packages/Beckhoff.TwinCAT.HMI.Framework.12.762.46/runtimes/native1.12-tchmi/Schema/ThemeDescription.Schema.json"
+}
