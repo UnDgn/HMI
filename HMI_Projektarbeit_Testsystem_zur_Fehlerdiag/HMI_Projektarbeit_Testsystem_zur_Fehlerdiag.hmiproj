@@ -123,6 +123,7 @@
     <Folder Include="Images\TwinCAT\" />
     <Folder Include="Imports" />
     <Folder Include="Imports\Images" />
+    <Folder Include="Imports\Images\Analog" />
     <Folder Include="Imports\Videos" />
     <Folder Include="KeyboardLayouts\" />
     <Folder Include="Localization" />
@@ -148,6 +149,30 @@
     <Content Include=".eslintrc.json">
       <Visible>false</Visible>
     </Content>
+    <Content Include="Imports\Images\Analog\CX5230.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Imports\Images\Analog\EL3074.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Imports\Images\Analog\EL3174.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Imports\Images\Analog\EL3202-0010.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Imports\Images\Analog\EL4712.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Imports\Images\Analog\EL4732.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Imports\Images\Analog\ELM3142-0000.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Imports\Images\Analog\hutschiene_400_0.png">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Imports\Images\EK1101-0080.png">
       <SubType>Content</SubType>
     </Content>
@@ -167,6 +192,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Imports\Images\EL6930.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Pages\Analog.content">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Pages\Content1.content">
